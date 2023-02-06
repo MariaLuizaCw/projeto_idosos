@@ -1,0 +1,14 @@
+metric,value
+train,0.6680012077294686
+test,0.557142857142857
+accuracy,0.7884615384615384
+f1-macro,0.5461790904828879
+precision-macro,0.5492424242424242
+recall-macro,0.5492424242424242
+f1-micro,0.7884615384615384
+precision-micro,0.7884615384615384
+recall-micro,0.7884615384615384
+f1-weighted,0.7289300010818999
+precision-weighted,0.6883741258741259
+recall-weighted,0.6883741258741259
+best_paramns,"{'criterion': 'gini', 'max_depth': 3, 'max_features': 6, 'n_estimators': 100}"
